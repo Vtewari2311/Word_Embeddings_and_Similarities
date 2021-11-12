@@ -1,0 +1,6 @@
+result
+word_vec:
+>>> wv.evaluate_word_pairs("SimLexA2.txt")
+((0.4471705560019418, 3.1602700639092923e-50), SpearmanrResult(correlation=0.43607859778335434, pvalue=1.3896416353352258e-47), 0.10010010010010009)
+>>> glove.evaluate_word_pairs("SimLexA2.txt")
+((0.387782792068166, 3.6876452795547013e-37), SpearmanrResult(correlation=0.3692121013345344, pvalue=1.371018956747063e-33), 0.10010010010010009)
