@@ -1,0 +1,11 @@
+: basketball
+Detroit Detroit_Pistons Houston Houston_Rockets
+Houston Houston_Rockets Milwaukee Milwaukee_Bucks
+Charlotte Charlotte_Bobcats Sacramento Sacramento_Kings
+Chicago Chicago_Bulls Phoenix Phoenix_Suns
+Indiana Indiana_Pacers Dallas Dallas_Mavericks
+Memphis Memphis_Grizzlies Portland Portland_Trail_Blazers
+Miami Miami_Heat Oakland Golden_State_Warriors
+New_York New_York_Knicks Sacramento Sacramento_Kings
+Oklahoma_City Oklahoma_City_Thunder Orlando Orlando_Magic
+Phoenix Phoenix_Suns Toronto Toronto_Raptors
